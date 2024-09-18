@@ -1,8 +1,8 @@
 # HolaMundo2
 
-##Siiiiiiiii
+## Siiiiiiiii
 
-###Nooooooo
+### Nooooooo
 
 - fefe **fef** ef
 - fe *fff* efef
@@ -17,5 +17,5 @@ public static void main(String[]args){
 }
 
 ```
-- []efefefefe
+- [ ]efefefefe
 - [x]kndekne
